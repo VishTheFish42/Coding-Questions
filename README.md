@@ -8,3 +8,4 @@ Below is a list of the problem descriptions tackled thus far, split by topic
 
 ## Math and Logic Puzzles
 1.  IS PRIME: Given an integer, return whether the number is prime.
+2.  REVERSE INTEGER: Given an integer, return the reversed form of that integer. No casting is allowed. If the initial number is negative, maintain the negative in the final answer (e.g. -123 becomes -321).
