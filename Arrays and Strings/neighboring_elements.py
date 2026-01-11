@@ -10,9 +10,6 @@ def give_surrounding_elements(arr, r, c):
    
     num_cols = len(arr[0])
 
-    if r <= 0 or c <= 0 or r > len(arr) or c > len(arr[0]):
-        return "Index out of bounds"
-
     neighbors = []
 
     for row in [-1, 0, 1]:
