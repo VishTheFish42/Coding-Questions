@@ -2,6 +2,7 @@
 IS ANAGRAM
 Given two strings, return whether or not the two are anagrams of one another.
 '''
+
 from collections import Counter
 
 def is_anagram(s1, s2):
