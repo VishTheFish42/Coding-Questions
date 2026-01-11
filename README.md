@@ -1,3 +1,6 @@
 # Coding-Questions
 A compilation of various coding problems I have come across and their solutions (in Python). Each problem will be continually updated with better solutions as I figure them out.
-Below is a list of the problem descriptions tackled thus far.
+Below is a list of the problem descriptions tackled thus far, split by topic
+
+# String Manipulation
+1.  IS ANAGRAM: Given two strings, return whether or not the two are anagrams of one another.
