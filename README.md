@@ -4,3 +4,4 @@ Below is a list of the problem descriptions tackled thus far, split by topic
 
 # String Manipulation
 1.  IS ANAGRAM: Given two strings, return whether or not the two are anagrams of one another.
+2.  IS SUBSET: Given two strings, determine whether the second string can be created using ONLY letters in the first string.
