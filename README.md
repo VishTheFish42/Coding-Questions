@@ -6,6 +6,7 @@ Below is a list of the problem descriptions tackled thus far, split by topic
 1.  IS ANAGRAM: Given two strings, return whether or not the two are anagrams of one another.
 2.  IS SUBSET: Given two strings, determine whether the second string can be created using ONLY letters in the first string.
 3.  NEIGHBORING ELEMENTS: Given a two-dimensional array and the position of an element (rows and columns start with 1), return the values of all neighboring elements.
+4.  ADJACENT ELEMENTS: Given a two-dimensional array and the position of an element (rows and columns start with 1), return the values of all ADJACENT elements (neighbors that are not diagonal).
 
 ## Math and Logic Puzzles
 1.  IS PRIME: Given an integer, return whether the number is prime.
